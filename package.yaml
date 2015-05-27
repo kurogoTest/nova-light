@@ -1,6 +1,6 @@
 ---
-id: modolabs/modo_nova_components
-description: Nova Southeastern University Components
+id: modolabs/modo_nova_light_components
+description: Nova Southeastern University Components - light
 license: commercial
 version: 1.0.0
 require:
