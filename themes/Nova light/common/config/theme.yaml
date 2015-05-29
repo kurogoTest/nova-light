@@ -63,7 +63,8 @@ common:
     navbar_text_color: '#004e96'             # Color of navigation-bar text (page title, button labels, etc.)
     navbar_border_color: '#004e96'
 
-    navmenu_background_color: '#004e96'      # Background color for navigation menu
+    # navmenu_background_color: '#004e96'      # Background color for navigation menu
+    navmenu_background_color: '#000000'      # Background color for navigation menu
     navmenu_background_image: none           # Optional# use "none" if no image is required, or CSS format e.g., "url(kgo_image(navmenu-back.jpg))"
     navmenu_text_color: '#dddddd'            # Color of non-link text and section headings in nav menu
     navmenu_list_background_color: '#004280' # Background color of actual navigation list(s) within nav menu (does not apply to Android native)
